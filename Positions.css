@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1347px;
+  min-height: 1067px;
 }
 
 .u-section-1 .u-text-1 {
@@ -15,12 +15,12 @@
 .u-section-1 .u-text-2 {
   font-size: 1rem;
   background-image: none;
-  margin: 20px auto auto;
+  margin: 20px auto 0;
 }
 
 .u-section-1 .u-accordion-1 {
-  width: 1140px;
-  margin: 30px auto 60px 0;
+  margin-top: 29px;
+  margin-bottom: 60px;
 }
 
 .u-section-1 .u-accordion-link-1 {
@@ -36,7 +36,7 @@
 }
 
 .u-section-1 .u-accordion-pane-1 {
-  min-height: 1079px;
+  min-height: 716px;
   background-image: none;
 }
 
@@ -70,14 +70,10 @@
 .u-section-1 .u-image-2 {
   width: 465px;
   height: 344px;
-  margin: -307px 0 0 auto;
+  margin: -271px 0 0 auto;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-accordion-1 {
-    width: 940px;
-  }
-
   .u-section-1 .u-accordion-pane-1 {
     min-height: 910px;
     height: auto;
@@ -101,10 +97,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-accordion-1 {
-    width: 720px;
-  }
-
   .u-section-1 .u-accordion-pane-1 {
     min-height: 1234px;
   }
@@ -129,10 +121,6 @@
 
   .u-section-1 .u-text-2 {
     margin-top: 30px;
-  }
-
-  .u-section-1 .u-accordion-1 {
-    width: 540px;
   }
 
   .u-section-1 .u-accordion-pane-1 {
@@ -160,10 +148,6 @@
     font-size: 3rem;
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-1 .u-accordion-1 {
-    width: 340px;
   }
 
   .u-section-1 .u-container-layout-1 {
