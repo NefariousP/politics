@@ -10,10 +10,10 @@
 }
 
 .u-section-1 .u-blog-1 {
-  width: 1140px;
   margin-top: 21px;
   margin-bottom: 60px;
-  min-height: 375px;
+  min-height: 264px;
+  height: auto;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -27,16 +27,60 @@
   padding: 30px;
 }
 
+.u-section-1 .u-text-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
 .u-section-1 .u-container-layout-2 {
   padding: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
 }
 
 .u-section-1 .u-container-layout-3 {
   padding: 30px;
 }
 
+.u-section-1 .u-text-4 {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
 .u-section-1 .u-container-layout-4 {
   padding: 30px;
+}
+
+.u-section-1 .u-text-5 {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-6 {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-7 {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
 }
 
 .u-section-1 .u-gallery-nav-1 {
@@ -44,6 +88,7 @@
   left: 10px;
   width: 40px;
   height: 40px;
+  background-image: none;
 }
 
 .u-section-1 .u-gallery-nav-2 {
@@ -51,13 +96,10 @@
   right: 10px;
   width: 40px;
   height: 40px;
+  background-image: none;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-blog-1 {
-    width: 940px;
-  }
-
   .u-section-1 .u-repeater-1 {
     grid-auto-columns: calc(33.333333333333336% - 6.66667px);
     grid-template-columns: repeat(3, calc(33.333333333333336% - 6.66667px));
@@ -65,10 +107,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-blog-1 {
-    width: 720px;
-  }
-
   .u-section-1 .u-repeater-1 {
     grid-auto-columns: calc(50% - 5.0000025px);
     grid-template-columns: repeat(2, calc(50% - 5.0000025px));
@@ -79,10 +117,6 @@
   .u-section-1 .u-text-1 {
     font-size: 4.5rem;
     width: 231px;
-  }
-
-  .u-section-1 .u-blog-1 {
-    width: 540px;
   }
 
   .u-section-1 .u-repeater-1 {
@@ -109,13 +143,19 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-blog-1 {
-    width: 340px;
-  }
-
   .u-section-1 .u-repeater-1 {
     grid-auto-columns: 100%;
   }
