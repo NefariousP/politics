@@ -19,7 +19,7 @@
 }
 
 .u-section-1 .u-accordion-1 {
-  margin-top: 23px;
+  margin-top: 48px;
   margin-bottom: 60px;
 }
 
@@ -36,8 +36,9 @@
 }
 
 .u-section-1 .u-accordion-pane-1 {
-  min-height: 659px;
+  min-height: 198px;
   background-image: none;
+  height: auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -86,8 +87,9 @@
 }
 
 .u-section-1 .u-accordion-pane-2 {
-  min-height: 659px;
+  min-height: 198px;
   background-image: none;
+  height: auto;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -151,12 +153,23 @@
 }
 
 .u-section-1 .u-accordion-pane-3 {
-  min-height: 659px;
+  min-height: 198px;
   background-image: none;
+  height: auto;
 }
 
 .u-section-1 .u-container-layout-3 {
   padding: 30px;
+}
+
+.u-section-1 .u-text-5 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-1 .u-btn-12 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-1 .u-accordion-link-4 {
@@ -172,18 +185,23 @@
 }
 
 .u-section-1 .u-accordion-pane-4 {
-  min-height: 659px;
+  min-height: 198px;
   background-image: none;
+  height: auto;
 }
 
 .u-section-1 .u-container-layout-4 {
   padding: 30px;
 }
 
+.u-section-1 .u-text-6 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-accordion-pane-1 {
     min-height: 910px;
-    height: auto;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -202,23 +220,9 @@
     margin-top: -229px;
   }
 
-  .u-section-1 .u-accordion-pane-2 {
-    height: auto;
-  }
-
   .u-section-1 .u-text-4 {
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-1 .u-accordion-pane-3 {
-    min-height: 910px;
-    height: auto;
-  }
-
-  .u-section-1 .u-accordion-pane-4 {
-    min-height: 910px;
-    height: auto;
   }
 }
 
@@ -236,14 +240,6 @@
     margin-top: 20px;
     margin-right: auto;
     margin-left: 0;
-  }
-
-  .u-section-1 .u-accordion-pane-3 {
-    min-height: 1234px;
-  }
-
-  .u-section-1 .u-accordion-pane-4 {
-    min-height: 1234px;
   }
 }
 
@@ -275,17 +271,9 @@
     margin-left: auto;
   }
 
-  .u-section-1 .u-accordion-pane-3 {
-    min-height: 1327px;
-  }
-
   .u-section-1 .u-container-layout-3 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-1 .u-accordion-pane-4 {
-    min-height: 1327px;
   }
 
   .u-section-1 .u-container-layout-4 {
