@@ -35038,27 +35038,47 @@ a.u-link.u-text-hover-grey-90:hover {
   padding: 0;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-btn-2 {
-    margin-left: 0;
-  }
-
   .u-footer .u-text-3 {
     margin-top: -23px;
   }
 }
+@media (max-width: 991px) {
+  .u-footer .u-btn-2 {
+    margin-left: 0;
+  }
 
+  .u-footer .u-text-2 {
+    margin-left: 0;
+  }
+}
 
 @media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-footer .u-text-1 {
+    width: auto;
+    margin-top: 131px;
+    margin-right: auto;
+  }
+
   .u-footer .u-btn-2 {
-    margin-top: 20px;
-    margin-right: 25px;
+    margin-top: -109px;
+    margin-left: auto;
+  }
+
+  .u-footer .u-text-2 {
+    width: auto;
+    margin-top: 21px;
     margin-left: auto;
   }
 
   .u-footer .u-text-3 {
-    margin-top: 20px;
+    width: auto;
+    margin-top: 62px;
     margin-right: auto;
-    margin-left: 25px;
+    margin-bottom: 41px;
   }
 }
 
