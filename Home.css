@@ -8,30 +8,37 @@
 
 .u-section-1 .u-custom-html-1 {
   min-height: 207px;
-  margin: 10px 760px 30px 25px;
+  height: auto;
+  margin: 10px 759px 30px 25px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-custom-html-1 {
-    margin-right: 560px;
-    height: auto;
+    margin-right: 559px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-custom-html-1 {
-    margin-right: 340px;
+    margin-right: 339px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-custom-html-1 {
-    margin-right: 160px;
+    margin-right: 159px;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 15px;
+    margin-left: 0;
+  }
+
   .u-section-1 .u-custom-html-1 {
-    margin-right: 0;
+    min-height: 107px;
+    margin: 9px 189px 60px 0;
   }
 }
