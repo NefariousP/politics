@@ -1,0 +1,129 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 695px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 25px auto 0 25px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -36px 25px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -36px auto 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 207px;
+  height: auto;
+  width: 356px;
+  margin: 13px auto 0;
+}
+
+.u-section-1 .u-custom-html-2 {
+  min-height: 207px;
+  height: auto;
+  margin: -207px 784px 0 0;
+}
+
+.u-section-1 .u-custom-html-3 {
+  min-height: 207px;
+  height: auto;
+  margin: -207px 0 60px 784px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 251px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-top: -493px;
+    margin-right: 559px;
+    margin-left: 25px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin-right: 25px;
+    margin-left: 559px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 50vw;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 293px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 232px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -572px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    width: 356px;
+    margin-top: 61px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    width: 356px;
+    margin-top: 61px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 924px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 285px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -548px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-left: -8px;
+    margin-right: -8px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-top: 53px;
+    margin-left: -8px;
+    margin-right: -8px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    width: 354px;
+    margin-top: 53px;
+    margin-left: -7px;
+    margin-right: -7px;
+  }
+}
