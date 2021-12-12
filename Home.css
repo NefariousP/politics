@@ -23,13 +23,11 @@
 
 .u-section-1 .u-custom-html-2 {
   min-height: 207px;
-  height: auto;
   margin: -207px 784px 0 0;
 }
 
 .u-section-1 .u-custom-html-3 {
   min-height: 207px;
-  height: auto;
   margin: -207px 0 60px 784px;
 }
 
@@ -48,12 +46,14 @@
   }
 
   .u-section-1 .u-custom-html-2 {
+    height: auto;
     margin-top: -493px;
     margin-right: 559px;
     margin-left: 25px;
   }
 
   .u-section-1 .u-custom-html-3 {
+    height: auto;
     margin-right: 25px;
     margin-left: 559px;
   }
