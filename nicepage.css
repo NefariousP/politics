@@ -35353,6 +35353,10 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         margin-top: 20px;
         margin-bottom: 20px;
+        font-size: 1rem;
+        line-height: 1.6;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         .u-btn
         {
