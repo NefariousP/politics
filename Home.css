@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1380px;
+  min-height: 1371px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -8,7 +8,7 @@
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 1320px;
+  min-height: 1311px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -20,19 +20,20 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 30px 0 0 260px;
+  margin: 68px 441px 0 30px;
 }
 
 .u-section-1 .u-image-1 {
-  width: 230px;
-  height: 230px;
+  width: 274px;
+  height: 274px;
   background-image: url("images/140515634-0.jpeg");
   background-position: 50% 50%;
-  margin: -251px auto 0 0;
+  margin: -318px 84px 0 auto;
 }
 
 .u-section-1 .u-text-3 {
-  margin: 23px 0 0 30px;
+  font-size: 1rem;
+  margin: 44px 0 0 30px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -44,7 +45,7 @@
   background-image: none;
   border-style: none;
   font-weight: 700;
-  margin: 44px auto 0 30px;
+  margin: 30px auto 0 30px;
 }
 
 @media (max-width: 1199px) {
@@ -53,17 +54,17 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 1088px;
+    min-height: 1081px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-left: 137px;
+    margin-right: 271px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-3 {
     margin-right: 145px;
     margin-left: 0;
-    font-size: 1rem;
   }
 
   .u-section-1 .u-btn-2 {
@@ -81,7 +82,7 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-left: 1px;
+    margin-right: 51px;
   }
 
   .u-section-1 .u-text-3 {
@@ -94,28 +95,28 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-layout-cell-1 {
-    min-height: 547px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-left: 0;
+  .u-section-1 .u-image-1 {
+    margin-right: 46px;
   }
 
   .u-section-1 .u-text-3 {
     margin-right: 66px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 459px;
+  min-height: 460px;
 }
 
 .u-section-2 .u-group-1 {
   width: 1140px;
   min-height: 399px;
-  margin: 30px auto;
+  margin: 30px 0 31px;
 }
 
 .u-section-2 .u-container-layout-1 {
