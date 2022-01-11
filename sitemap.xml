@@ -9,43 +9,63 @@
 
 <url>
   <loc>https://nefarious.live/</loc>
-  <lastmod>2021-12-23T06:26:36+00:00</lastmod>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://nefarious.live/Home</loc>
-  <lastmod>2021-12-23T06:26:36+00:00</lastmod>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nefarious.live/Stream</loc>
-  <lastmod>2021-12-23T06:26:36+00:00</lastmod>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nefarious.live/Positions</loc>
-  <lastmod>2021-12-23T06:26:36+00:00</lastmod>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nefarious.live/Articles</loc>
-  <lastmod>2021-12-23T06:26:36+00:00</lastmod>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nefarious.live/Research-Document</loc>
-  <lastmod>2021-12-23T06:26:36+00:00</lastmod>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nefarious.live/blog/on-medicare-for-all</loc>
-  <lastmod>2021-12-23T06:26:36+00:00</lastmod>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://nefarious.live/blog/on-religion</loc>
-  <lastmod>2021-12-23T06:26:36+00:00</lastmod>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nefarious.live/Home.html</loc>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nefarious.live/Stream.html</loc>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nefarious.live/Positions.html</loc>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nefarious.live/Articles.html</loc>
+  <lastmod>2022-01-10T13:09:42+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
